@@ -30,7 +30,7 @@ bun dev
 
 ## Author 
 ```
-Design and code is completely written by codescandy and development team. 
+Design and code is completely written by codescandy's development team. 
 ```
 
 ## License
